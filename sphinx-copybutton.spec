@@ -4,7 +4,7 @@
 #
 Name     : sphinx-copybutton
 Version  : 0.4.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/d0/79/d57ca42f4be2ac21f660300a5e1a285ce42b23c45b5a4b9a21ce973a3b2f/sphinx-copybutton-0.4.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d0/79/d57ca42f4be2ac21f660300a5e1a285ce42b23c45b5a4b9a21ce973a3b2f/sphinx-copybutton-0.4.0.tar.gz
 Summary  : Add a copy button to each of your code cells.

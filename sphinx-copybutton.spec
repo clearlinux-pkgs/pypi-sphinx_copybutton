@@ -4,7 +4,7 @@
 #
 Name     : sphinx-copybutton
 Version  : 0.4.0
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/d0/79/d57ca42f4be2ac21f660300a5e1a285ce42b23c45b5a4b9a21ce973a3b2f/sphinx-copybutton-0.4.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d0/79/d57ca42f4be2ac21f660300a5e1a285ce42b23c45b5a4b9a21ce973a3b2f/sphinx-copybutton-0.4.0.tar.gz
 Summary  : Add a copy button to each of your code cells.
@@ -45,10 +45,7 @@ Summary: python3 components for the sphinx-copybutton package.
 Group: Default
 Requires: python3-core
 Provides: pypi(sphinx_copybutton)
-Requires: pypi(ipython)
-Requires: pypi(pre_commit)
 Requires: pypi(sphinx)
-Requires: pypi(sphinx_book_theme)
 
 %description python3
 python3 components for the sphinx-copybutton package.
@@ -63,7 +60,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1637341996
+export SOURCE_DATE_EPOCH=1641427765
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib

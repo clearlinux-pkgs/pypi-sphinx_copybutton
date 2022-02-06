@@ -1,5 +1,5 @@
 PKG_NAME := pypi-sphinx_copybutton
-URL = https://files.pythonhosted.org/packages/d0/79/d57ca42f4be2ac21f660300a5e1a285ce42b23c45b5a4b9a21ce973a3b2f/sphinx-copybutton-0.4.0.tar.gz
+URL = https://files.pythonhosted.org/packages/4d/a7/d9fca1553828adfb3496f6436a1c3d624d71cae76d56e569dc722f92cbca/sphinx-copybutton-0.5.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
